@@ -1,0 +1,4 @@
+uq-ai-frontend/node_modules/
+uq-ai-frontend/.next/
+backend/target/
+*.log
